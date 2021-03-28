@@ -1,3 +1,3 @@
 # Lecture-3
  
-This is a longer description of what's happening in this project
+This is an assignment for Coding Fundementals
