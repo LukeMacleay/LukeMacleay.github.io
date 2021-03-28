@@ -4,15 +4,15 @@ h1,h2,h3,h4  {
 }
 
 body {
-	color:rgb(0, 0, 0);
+	color:rgb(211, 176, 63);
 }
 
 h1 {
-	color: rgb(0, 0, 0)
+	color: rgb(201, 19, 131)
 }
 
 .first {
-	color: rgb(0, 0, 0)
+	color: rgb(25, 146, 155)
 }
 
 section {
@@ -25,3 +25,7 @@ section {
 	padding:0px;
 }
 
+.content {
+	max-width: 500px;
+	margin: auto;
+  }
